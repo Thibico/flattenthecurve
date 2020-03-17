@@ -1,0 +1,78 @@
+.MainVizComponent{
+
+  text-align: center;
+
+  .title {
+		font-size: 18px;
+		font-weight: 700;
+	}
+	
+	.slope-line {
+		stroke: #999;
+		stroke-width: 2px;
+		stroke-linecap: round;
+	}
+	
+	.slope-label-left, .slope-label-right {
+		font-size: 16px;
+		cursor: default;
+		font-weight: 400;
+	}
+	
+	.label-figure {
+		font-weight: 700;
+	}
+	
+	.borderLines {
+		// stroke: #ddd;
+		stroke-width: 1px;
+  }
+
+	
+	.voronoi path {
+		fill: none;
+		pointer-events: all;
+	}
+	
+	.circle {
+		fill: white;
+		stroke: #555;
+		stroke-width: 2px;
+	}
+
+	circle {
+		fill-opacity: 0.6;
+	}
+
+	.label-figure-small {
+		font-size: 0.7em;
+		font-weight: 300;
+	}
+
+	.bar {
+		rx: 1px;
+  }
+  
+  .annote {
+    font-size:  18px;
+    paint-order: stroke;
+    stroke: #fff;
+    stroke-width: 2px;
+    stroke-linecap: butt;
+    stroke-linejoin: miter;
+    // font-weight: 800;
+  }
+
+  .grid {
+    color: rgba(200,200,200,0.0);
+    
+  }
+  .tick {
+    color: rgba(200,200,200,0.7);
+  }
+  .tick text {
+    color: rgba(200,200,200,0.7);
+    font-size: 18px;
+    text-anchor: start;
+  }
+}
