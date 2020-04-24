@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "45e5a28acc7779971a1957add7b99d61",
+    "revision": "f8d6daa6803b9dd6ca1e331acc4ab229",
     "url": "/flattenthecurve/index.html"
   },
   {
-    "revision": "e9b0016131bf13900514",
+    "revision": "c17c758554436447aad9",
     "url": "/flattenthecurve/static/css/2.678de7e9.chunk.css"
   },
   {
-    "revision": "83dfeac482bb78fcbd1d",
-    "url": "/flattenthecurve/static/css/main.d0cc6f43.chunk.css"
+    "revision": "84c8c346baf2564e1702",
+    "url": "/flattenthecurve/static/css/main.ae17864b.chunk.css"
   },
   {
-    "revision": "e9b0016131bf13900514",
-    "url": "/flattenthecurve/static/js/2.2b66f827.chunk.js"
+    "revision": "c17c758554436447aad9",
+    "url": "/flattenthecurve/static/js/2.ba8aac45.chunk.js"
   },
   {
-    "revision": "83dfeac482bb78fcbd1d",
-    "url": "/flattenthecurve/static/js/main.6da28d83.chunk.js"
+    "revision": "84c8c346baf2564e1702",
+    "url": "/flattenthecurve/static/js/main.4ef94871.chunk.js"
   },
   {
     "revision": "20bd891dc9c16d61f436",
